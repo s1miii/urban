@@ -1,14 +1,6 @@
 # Security Bugs — urbanplayground.xyz
-## Critical / High / Medium severity only
+## Critical / High / Medium 
 
-**Target frontend:** `https://urbanplayground.xyz/`
-**Target backend:** `https://backend-production-958d.up.railway.app/` (Railway, "Canopy v0.1.0")
-**Test date:** 2026-05-28
-**Methodology:** Black-box, read-only, all PoCs reproduced against the live production deployment.
-
-> Low / Informational findings (server banner, missing modern headers, broken pagination, Google OAuth client-ID exposure, secondary endpoint enumeration) have been excluded from this document at the owner's request. They remain available in the full reports `urbanplayground_security_report.md` and `urbanplayground_security_report_v2.md`.
-
----
 
 ## Summary
 
